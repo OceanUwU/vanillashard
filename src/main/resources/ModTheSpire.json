@@ -1,0 +1,10 @@
+{
+    "modid": "vanillashard",
+    "name": "${artifactId}",
+    "author_list": ["ocean"],
+    "description": "Restricts the Prismatic Shard relic to only non-modded card classes",
+    "version": "${project.version}",
+    "sts_version": "${SlayTheSpire.version}",
+    "mts_version": "${ModTheSpire.version}",
+    "update_json": "https://api.github.com/repos/OceanUwU/vanilla-shard/releases/latest"
+}
